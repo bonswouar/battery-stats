@@ -4,6 +4,15 @@
 # Autotools
 /autom4te.cache
 /stamp-h1
+CMakeFiles
+data
+CMakeCache.txt
+cmake_install.cmake
+fit.log
+install_manifest.txt
+make_install.log*
+src/cmake_install.cmake
+src/battery-graph
 Makefile
 /config.status
 /config.log
